@@ -5,7 +5,7 @@ int main(void)
 {
 	while(true){
 		int n=50;
-		cout << "½Ð¿é±ý­pºâ¤§¶¥¼h¡G" ;
+		cout << "Insert number :" ;
 		cin >> n;
 		cout << n << "!=";
 		
